@@ -9,6 +9,13 @@ This project demonstrates a complete SQL Injection attack on a vulnerable web ap
 - Kali Linux
 - DVWA (Damn Vulnerable Web Application)
 
+## Skills Demonstrated
+- Web Application Security Testing  
+- SQL Injection Exploitation  
+- Burp Suite Usage  
+- Automated Testing with sqlmap  
+- Vulnerability Analysis
+  
 ## Vulnerability: SQL Injection
 SQL Injection is a vulnerability that allows attackers to manipulate database queries by injecting malicious input. This can lead to unauthorized access, data leakage, and full database compromise.
 
